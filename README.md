@@ -2,43 +2,32 @@
 
 ##### Developed with Unreal Engine 5.1.1
 
-##### Mostly based on [Udemy course](https://ua.udemy.com/course/unreal-engine-5-soulslike-combat/ "Udemy course")
+##### Based on [Udemy course](https://www.udemy.com/course/unrealcourse/ "Udemy course")
 
 ---
-Almost all of the blueprint logic was converted to C++, except AI tasks and some other blueprints, which take too much time to rewrite them.
+Game was made for the learning purposes. Current release is a simple shooter game with 3PP camera, where you need to find and kill all enemies on the map. 
 
-Game was made only for the learning purposes and is not finished. In current state it is a single level (map from InfinityBladeIceLands with a few changes), which contains 2 types of enemies(one with different weapon variations) and a boss at the end. 
-
-Implemented all functionality from the course: different attack types and simple attack combos, rolling with invincibility frames, stats system, blocking, targeting enemies, UI, AI for enemies etc. Additionally added the simplest inventory system to change weapons for a player.
+First big "done" project. Learned how to implement AI(tasks, services, behavior tree, blackboard etc), work with animations, blend spaces and state machines, setting HUD using UMG module and more.
 
 ---
 ### Screenshots
-![](https://i.imgur.com/HVJVv7w.png)
+![](https://i.imgur.com/NNY9d9P.jpg)
 
-![](https://i.imgur.com/poQ6P9C.png)
+![](https://i.imgur.com/xI8gr8S.jpg)
 
-![](https://i.imgur.com/UjRBjwT.png)
+![](https://i.imgur.com/RsvetG4.jpg)
 
-![](https://i.imgur.com/E13t2Yh.png)
-
-![](https://i.imgur.com/AEKAXP2.png)
-
-![](https://i.imgur.com/W4lhfGz.png)
+![](https://i.imgur.com/Ym0NJqi.jpg)
 
 ----
 List of free assets, that were used in this game:
 
 | Asset Name                                  | Unreal Marketplace URL                                                                                     |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Infinity Blade Enemies                      | [Link](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-enemies)                      |
-| Infinity Blade Effects                      | [Link](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-effects)                      |
-| Infinity Blade Weapons                      | [Link](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons)                      |
-| Infinity Blade Ice Lands                    | [Link](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-ice-lands)                    |
-| Paragon Gideon                              | [Link](https://www.unrealengine.com/marketplace/en-US/product/paragon-gideon)                              |
-| Paragon Kwang                               | [Link](https://www.unrealengine.com/marketplace/en-US/product/paragon-kwang)                               |
-| Paragon Rampage                             | [Link](https://www.unrealengine.com/marketplace/en-US/product/paragon-rampage)                             |
-| Realistic Starter VFX Pack Vol              | [Link](https://www.unrealengine.com/marketplace/en-US/product/realistic-starter-vfx-pack-vol)              |
+| Modular SciFi Season 1                      | [Link](https://www.unrealengine.com/marketplace/en-US/product/modular-scifi-season-1-starter-bundle)       |
+| Paragon Wraith                              | [Link](https://www.unrealengine.com/marketplace/en-US/product/paragon-wraith)                              |
 
 
-Link to the [archive](https://drive.google.com/file/d/1HvhsBhsMXOBzRLjPGk4euB_x5u9kNv8m/view?usp=drive_link), which contains the game with all required contents except of build and editor files
+
+Link to the [archive](), which contains the game with all required contents except of build and editor files
 
