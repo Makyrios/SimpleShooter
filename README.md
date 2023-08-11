@@ -29,5 +29,5 @@ List of free assets, that were used in this game:
 
 
 
-Link to the [archive](), which contains the game with all required contents except of build and editor files
+Link to the [archive](https://drive.google.com/file/d/1tj6taCTLud8nl9tGEbndw3QqAagjHPb8/view?usp=sharing), which contains the game with all required contents except of build and editor files
 
